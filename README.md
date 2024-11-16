@@ -1,4 +1,4 @@
-![logo](https://github.com/rksingh1713/rksingh1713/blob/main/GitHub_Banner.gif)
+![logo](Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Rajababu</h1>
 <h3 align="center">A CSE Student 👨🏻‍🎓</h3>
