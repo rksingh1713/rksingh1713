@@ -11,14 +11,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rksingh1713/](https://github.com/rksingh1713/)
 
-- 📫 How to reach me **rksinghbth1713@gmail.com**
+- 📫 How to reach me **rksinghbth500@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 9931407321</h3>
 <p align="left">
 <a href="https://twitter.com/rksingh1713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rksingh1713" height="30" width="40" /></a>
 
 <a href="https://fb.com/rksingh1713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rksingh1713" height="30" width="40" /></a>
-<a href="https://instagram.com/rksingh1713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rksingh1713" height="30" width="40" /></a>
+<a href="https://instagram.com/rksingh_1713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rksingh_1713" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
