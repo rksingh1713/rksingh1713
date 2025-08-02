@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/rksingh1713?label=Followers&logo=github&color=9C27B0&style=for-the-badge" alt="GitHub Followers" />
 </p>
 
----
+
 
 <img align="right" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" alt="coding" width="400" />
 
@@ -21,7 +21,7 @@
 - 📫 **Reach Me:** **rksinghbth500@gmail.com**  
 - 📱 **Contact:** **+91 9931407321**  
 
----
+
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -34,7 +34,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40"/></a>
 </p>
 
----
+
 
 ## 🛠 Skills & Tools
 
@@ -51,20 +51,20 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" />
 </p>
 
----
+
 
 ## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rksingh1713&theme=radical&row=1&column=6" alt="Trophies" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=rksingh1713&show_icons=true&theme=tokyonight" width="400"/></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rksingh1713&theme=tokyonight" width="400"/></td>
+<td><img src="https://streak-stats.demolab.com?user=rksingh1713&theme=tokyonight&fire=DD2727" width="400"/></td>
 </tr>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rksingh1713&layout=compact&theme=tokyonight" width="400"/></td>
@@ -72,14 +72,21 @@
 </tr>
 </table>
 
----
+
+
+
+## 📈 GitHub Metrics Card
+<p align="center">
+  <img src="https://github-readme-metrics.vercel.app/api?username=rksingh1713&template=classic&config.timezone=Asia/Kolkata" alt="GitHub Metrics" />
+</p>
+
 
 ## 🔥 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rksingh1713&theme=react-dark&area=true&hide_border=true" width="98%"/>
 </p>
 
----
+
 
 ## 🐍 GitHub Snake Animation
 <!-- 🐍 Contribution Snake Animation -->
@@ -96,7 +103,7 @@
 </p>
 
 
----
+
 
 ## 🎓 Certifications
 <p align="center">
@@ -105,7 +112,7 @@
   <img src="https://img.shields.io/badge/Web%20Development-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
 </p>
 
----
+
 
 ## ✍️ Random Dev Quote
 <p align="center">
