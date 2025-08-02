@@ -74,15 +74,6 @@
 
 
 
-## 📈 GitHub Metrics Card
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-
-
-
-
 
 ## 🔥 Contribution Graph
 <p align="center">
