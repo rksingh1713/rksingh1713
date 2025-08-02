@@ -82,9 +82,19 @@
 ---
 
 ## 🐍 GitHub Snake Animation
+<!-- 🐍 Contribution Snake Animation -->
+<h2 align="center">🐍 Watch my contributions turn into a snake!</h2>
+
 <p align="center">
-  <img src="https://github.com/rksingh1713/rksingh1713/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://github.com/rksingh1713/rksingh1713/blob/output/github-contribution-grid-snake.svg" 
+       alt="Snake Animation" 
+       style="max-width: 100%;"/>
 </p>
+
+<p align="center">
+  <sub>✨ This snake animation updates automatically every 12 hours to reflect my latest GitHub activity ✨</sub>
+</p>
+
 
 ---
 
