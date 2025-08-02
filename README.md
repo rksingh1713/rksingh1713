@@ -74,11 +74,14 @@
 
 
 
-
 ## 📈 GitHub Metrics Card
 <p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=rksingh1713&template=classic&config.timezone=Asia/Kolkata" alt="GitHub Metrics" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
+
+
+
+
 
 
 ## 🔥 Contribution Graph
