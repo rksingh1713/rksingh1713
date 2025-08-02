@@ -83,7 +83,7 @@
 
 ## 🐍 GitHub Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rksingh1713/rksingh1713/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://github.com/rksingh1713/rksingh1713/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
