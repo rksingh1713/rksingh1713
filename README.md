@@ -27,7 +27,7 @@
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/rksingh1713" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
-  <a href="https://rksingh1713.github.io/rajababukumar-portfolio/" target="_blank"><img src="https://github.com/rksingh1713/rajababukumar-portfolio/blob/main/port.png" width="40" height="40" alt="Portfolio" /></a>
+  <a href="https://rksingh1713.github.io/rajababukumar-portfolio/" target="_blank"><img src="https://github.com/rksingh1713/rksingh1713/blob/main/profile.png" width="40" height="40" alt="Portfolio" /></a>
   <a href="https://fb.com/rksingh1713" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40"/></a>
   <a href="https://instagram.com/rksingh_1713" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"/></a>
   <a href="mailto:rksinghbth500@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40"/></a>
