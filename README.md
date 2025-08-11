@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajababu Kumar</h1> 
 
-  
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6F61&width=700&center=true&lines=🚀+Passionate+CS+Engineer+%7C+Tech+Explorer;💻+Loves+Python+%7C+ML+%7C+Full+Stack;🎯+Building+Impactful+Projects+for+the+Future" alt="Typing SVG" />
 </p> 
@@ -11,9 +10,7 @@
 </p>
  
  
-  
 <img align="right" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" alt="coding" width="400" /> 
-
 
 ## 👨‍💻 About Me
 - 🎓 **B.Tech in Computer Science & Engineering (AIML)**  
@@ -24,7 +21,6 @@
 - 📱 **Contact:** **+91 9931407321**  
 
 
-
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/rksingh1713" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
@@ -33,7 +29,6 @@
   <a href="https://instagram.com/rksingh_1713" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"/></a>
   <a href="mailto:rksinghbth500@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40"/></a>
 </p>
-
 
 
 ## 🛠 Skills & Tools
@@ -51,12 +46,10 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" />
 </p>
 
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rksingh1713&theme=radical&row=1&column=8" alt="Trophies" />
 </p>
-
 
 
 ## 📊 GitHub Stats
@@ -71,14 +64,10 @@
 </tr>
 </table>
 
-
-
-
 ## 🔥 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rksingh1713&theme=react-dark&area=true&hide_border=true" width="98%"/>
 </p>
-
 
 
 ## 🐍 GitHub Snake Animation
@@ -95,17 +84,12 @@
   <sub>✨ This snake animation updates automatically every 12 hours to reflect my latest GitHub activity ✨</sub>
 </p>
 
-
-
-
 ## 🎓 Certifications
 <p align="center">
   <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-306998?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
   <img src="https://img.shields.io/badge/Web%20Development-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
 </p>
-
-
 
 ## ✍️ Random Dev Quote
 <p align="center">
