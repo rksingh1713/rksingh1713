@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rksingh1713&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile Views" />  
   <img src="https://img.shields.io/github/followers/rksingh1713?label=Followers&logo=github&color=9C27B0&style=for-the-badge" alt="GitHub Followers" /> 
-</p>
+</p> 
  
  
 <img align="right" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" alt="coding" width="400" /> 
