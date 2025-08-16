@@ -85,11 +85,36 @@
 </p>
 
 ## 🎓 Certifications
-<p align="center">
-  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Web%20Development-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Certificate 1 -->
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
+    <a href="YOUR_CERTIFICATE_LINK_1" target="_blank">
+      <img src="YOUR_IMAGE_LINK_1" alt="Certificate 1" style="width: 100%; border-radius: 10px;" />
+    </a>
+    <h3 style="margin: 10px 0 5px;">Python for Data Science</h3>
+    <p style="color: #555;">Issued by Coursera</p>
+  </div>
+
+  <!-- Certificate 2 -->
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
+    <a href="YOUR_CERTIFICATE_LINK_2" target="_blank">
+      <img src="YOUR_IMAGE_LINK_2" alt="Certificate 2" style="width: 100%; border-radius: 10px;" />
+    </a>
+    <h3 style="margin: 10px 0 5px;">Machine Learning</h3>
+    <p style="color: #555;">Issued by Stanford University</p>
+  </div>
+
+  <!-- Certificate 3 -->
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
+    <a href="YOUR_CERTIFICATE_LINK_3" target="_blank">
+      <img src="YOUR_IMAGE_LINK_3" alt="Certificate 3" style="width: 100%; border-radius: 10px;" />
+    </a>
+    <h3 style="margin: 10px 0 5px;">Web Development</h3>
+    <p style="color: #555;">Issued by FreeCodeCamp</p>
+  </div>
+
+</div>
 
 ## ✍️ Random Dev Quote
 <p align="center">
