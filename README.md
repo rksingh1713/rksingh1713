@@ -85,36 +85,40 @@
 </p>
 
 ## 🎓 Certifications
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- Certificate 1 -->
-  <div style="flex: 1 1 300px; max-width: 320px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
     <a href="YOUR_CERTIFICATE_LINK_1" target="_blank">
       <img src="YOUR_IMAGE_LINK_1" alt="Certificate 1" style="width: 100%; border-radius: 10px;" />
     </a>
-    <h3 style="margin: 10px 0 5px;">Python for Data Science</h3>
-    <p style="color: #555;">Issued by Coursera</p>
+    <h3 style="margin: 10px 0 5px; font-size: 18px;">Python for Data Science</h3>
+    <p style="color: #555; font-size: 14px;">Issued by Coursera</p>
   </div>
 
   <!-- Certificate 2 -->
-  <div style="flex: 1 1 300px; max-width: 320px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
     <a href="YOUR_CERTIFICATE_LINK_2" target="_blank">
       <img src="YOUR_IMAGE_LINK_2" alt="Certificate 2" style="width: 100%; border-radius: 10px;" />
     </a>
-    <h3 style="margin: 10px 0 5px;">Machine Learning</h3>
-    <p style="color: #555;">Issued by Stanford University</p>
+    <h3 style="margin: 10px 0 5px; font-size: 18px;">Machine Learning</h3>
+    <p style="color: #555; font-size: 14px;">Issued by Stanford University</p>
   </div>
 
   <!-- Certificate 3 -->
-  <div style="flex: 1 1 300px; max-width: 320px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
     <a href="YOUR_CERTIFICATE_LINK_3" target="_blank">
       <img src="YOUR_IMAGE_LINK_3" alt="Certificate 3" style="width: 100%; border-radius: 10px;" />
     </a>
-    <h3 style="margin: 10px 0 5px;">Web Development</h3>
-    <p style="color: #555;">Issued by FreeCodeCamp</p>
+    <h3 style="margin: 10px 0 5px; font-size: 18px;">Web Development</h3>
+    <p style="color: #555; font-size: 14px;">Issued by FreeCodeCamp</p>
   </div>
 
+  <!-- Repeat for all your 12–16 certificates -->
+
 </div>
+
 
 ## ✍️ Random Dev Quote
 <p align="center">
