@@ -89,6 +89,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- Certificate 1 -->
+  
   <div style="flex: 1 1 250px; max-width: 300px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
     <a href="YOUR_CERTIFICATE_LINK_1" target="_blank">
       <img src="YOUR_IMAGE_LINK_1" alt="Certificate 1" style="width: 100%; border-radius: 10px;" />
