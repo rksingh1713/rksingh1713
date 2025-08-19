@@ -20,7 +20,6 @@
 - 📫 **Reach Me:** **rksinghbth500@gmail.com**  
 - 📱 **Contact:** **+91 9931407321**  
 
-
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/rksingh1713" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
@@ -51,7 +50,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rksingh1713&theme=radical&row=1&column=8" alt="Trophies" />
 </p>
 
-
 ## 📊 GitHub Stats
 <table>
 <tr>
@@ -69,7 +67,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rksingh1713&theme=react-dark&area=true&hide_border=true" width="98%"/>
 </p>
 
-
 ## 🐍 GitHub Snake Animation
 <!-- 🐍 Contribution Snake Animation -->
 <h2 align="center">🐍 Watch my contributions turn into a snake!</h2>
@@ -85,11 +82,9 @@
 </p>
 
 ## 🎓 Certifications
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- Certificate 1 -->
-  
   <div style="flex: 1 1 250px; max-width: 300px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
     <a href="YOUR_CERTIFICATE_LINK_1" target="_blank">
       <img src="YOUR_IMAGE_LINK_1" alt="Certificate 1" style="width: 100%; border-radius: 10px;" />
