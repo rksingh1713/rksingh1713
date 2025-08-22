@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/github/followers/rksingh1713?label=Followers&logo=github&color=9C27B0&style=for-the-badge" alt="GitHub Followers" />
 </p>
   
-  
 <img align="right" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" alt="coding" width="400" />
 
 ## 👨‍💻 About Me 
@@ -28,7 +27,6 @@
   <a href="https://instagram.com/rksingh_1713" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"/></a>
   <a href="mailto:rksinghbth500@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40"/></a>
 </p>
-
 
 ## 🛠 Skills & Tools
 
@@ -114,7 +112,6 @@
   <!-- Repeat for all your 12–16 certificates -->
 
 </div>
-
 
 ## ✍️ Random Dev Quote
 <p align="center">
