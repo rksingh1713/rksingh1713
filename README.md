@@ -91,34 +91,6 @@
 </tr>
 </table>
 
-## 🎓Samatrix Certifications
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
-  <b>Software Engineer</b>
-</td>
-
-<td align="center" width="50%">
-  <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
-  <b>Software Engineer</b>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-  <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
-  <b>Software Engineer</b>
-</td>
-
-<td align="center" width="50%">
-  <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
-  <b>Software Engineer</b>
-</td>
-</tr>
-</table>
-
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
