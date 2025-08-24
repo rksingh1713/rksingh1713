@@ -43,6 +43,17 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" />
 </p>
 
+## 🎓Role
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="HackerRank certificates/software_engineer certificate.png" width="250px"><br>
+  <b>Software Engineer</b>
+</td>
+</tr>
+</table>
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rksingh1713&theme=radical&row=1&column=8" alt="Trophies" />
@@ -80,16 +91,7 @@
 </p>
 
 
-## 🎓HackerRank Certifications
 
-<table>
-<tr>
-<td align="center" width="50%">
-  <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
-  <b>Software Engineer</b>
-</td>
-</tr>
-</table>
 
 ## ✍️ Random Dev Quote
 <p align="center">
