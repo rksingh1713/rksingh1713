@@ -85,32 +85,33 @@
 <table>
 <tr>
 <td align="center" width="50%">
-  <img 
-    src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" 
-    width="250px" 
-    style="pointer-events: none; user-select: none;" 
-    alt="Software Engineer Certificate"
-  ><br>
-  <b>Software Engineer</b><br>
- <b>
-  <a href="https://www.hackerrank.com/certificates/iframe/ec4fdff0f405">🔗</a>
-  Issued by HackerRank
-</b>
-
-
-</td>
-
-
-<td align="center" width="50%">
   <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
   <b>Software Engineer</b><br>
-  <a href="https://www.hackerrank.com/certificates/iframe/ec4fdff0f405">Issued by HackerRank</a>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/ec4fdff0f405">Verify</a>
 </td>
 
 <td align="center" width="50%">
-  <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
-  <b>Software Engineer</b><br>
-  <a href="https://www.hackerrank.com/certificates/iframe/ec4fdff0f405">Issued by HackerRank</a>
+  <img src="<!-- apna image link -->" width="250px"><br>
+  <b>Problem Solving (Basic)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="<!-- verify link -->">Verify</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+  <img src="<!-- apna image link -->" width="250px"><br>
+  <b>Python (Basic)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="<!-- verify link -->">Verify</a>
+</td>
+
+<td align="center" width="50%">
+  <img src="<!-- apna image link -->" width="250px"><br>
+  <b>SQL (Basic)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="<!-- verify link -->">Verify</a>
 </td>
 </tr>
 </table>
