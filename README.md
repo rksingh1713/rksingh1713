@@ -79,21 +79,44 @@
   <sub>✨ This snake animation updates automatically every 12 hours to reflect my latest GitHub activity ✨</sub>
 </p>
 
-## 🎓 Certifications
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <!-- Certificate 1 -->
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
-      <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" alt="Certificate 1" style="width: 70%; border-radius: 10px;" />
-    <h3 style="margin: 10px 0 5px; font-size: 18px;">Software Engineer</h3>
-    <p style="color: #555; font-size: 14px;">Issued by HackerRank</p>
+<!-- Certifications Grid (works in GitHub README) -->
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; align-items:stretch; background:#0f172a10; padding:16px; border-radius:16px;">
+  
+  <!-- Card 1 -->
+  <div style="flex:1 1 240px; max-width:320px; background:#f9f9f9; border-radius:14px; padding:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12); text-align:center;">
+    <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" alt="Software Engineer Certificate" style="width:100%; border-radius:10px;">
+    <h3 style="margin:10px 0 4px; font-size:18px;">Software Engineer</h3>
+    <p style="margin:0; color:#555; font-size:14px;">Issued by HackerRank</p>
+    <a href="https://www.hackerrank.com/profile/rksingh1713" style="display:inline-block; margin-top:10px; padding:8px 12px; border-radius:10px; text-decoration:none; background:#0ea5e9; color:white; font-size:14px;">Verify</a>
   </div>
 
- 
+  <!-- Card 2 -->
+  <div style="flex:1 1 240px; max-width:320px; background:#f9f9f9; border-radius:14px; padding:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12); text-align:center;">
+    <img src="<!-- yahan apni image URL de (png/jpg) -->" alt="Certificate 2" style="width:100%; border-radius:10px;">
+    <h3 style="margin:10px 0 4px; font-size:18px;">Problem Solving (Basic)</h3>
+    <p style="margin:0; color:#555; font-size:14px;">Issued by HackerRank</p>
+    <a href="<!-- yahan verify link de (shareable URL) -->" style="display:inline-block; margin-top:10px; padding:8px 12px; border-radius:10px; text-decoration:none; background:#0ea5e9; color:white; font-size:14px;">Verify</a>
+  </div>
 
-  <!-- Repeat for all your 12–16 certificates -->
+  <!-- Card 3 -->
+  <div style="flex:1 1 240px; max-width:320px; background:#f9f9f9; border-radius:14px; padding:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12); text-align:center;">
+    <img src="<!-- yahan apni image URL de (png/jpg) -->" alt="Certificate 3" style="width:100%; border-radius:10px;">
+    <h3 style="margin:10px 0 4px; font-size:18px;">Python (Basic)</h3>
+    <p style="margin:0; color:#555; font-size:14px;">Issued by HackerRank</p>
+    <a href="<!-- yahan verify link de (shareable URL) -->" style="display:inline-block; margin-top:10px; padding:8px 12px; border-radius:10px; text-decoration:none; background:#0ea5e9; color:white; font-size:14px;">Verify</a>
+  </div>
+
+  <!-- Card 4 -->
+  <div style="flex:1 1 240px; max-width:320px; background:#f9f9f9; border-radius:14px; padding:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12); text-align:center;">
+    <img src="<!-- yahan apni image URL de (png/jpg) -->" alt="Certificate 4" style="width:100%; border-radius:10px;">
+    <h3 style="margin:10px 0 4px; font-size:18px;">SQL (Basic)</h3>
+    <p style="margin:0; color:#555; font-size:14px;">Issued by HackerRank</p>
+    <a href="<!-- yahan verify link de (shareable URL) -->" style="display:inline-block; margin-top:10px; padding:8px 12px; border-radius:10px; text-decoration:none; background:#0ea5e9; color:white; font-size:14px;">Verify</a>
+  </div>
 
 </div>
+
 
 ## ✍️ Random Dev Quote
 <p align="center">
