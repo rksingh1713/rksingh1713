@@ -85,16 +85,18 @@
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
+  <img 
+    src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" 
+    width="250px" 
+    style="pointer-events: none; user-select: none;" 
+    alt="Software Engineer Certificate"
+  ><br>
   <b>Software Engineer</b><br>
-  <a href="https://www.hackerrank.com/certificates/iframe/ec4fdff0f405">Issued by HackerRank</a>
+  <span style="color: #000; font-weight: 500; text-decoration: none;">
+    Issued by HackerRank
+  </span>
 </td>
 
-<td align="center" width="50%">
-  <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
-  <b>Software Engineer</b><br>
-  <a href="https://www.hackerrank.com/certificates/iframe/ec4fdff0f405">Issued by HackerRank</a>
-</td>
 
 <td align="center" width="50%">
   <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
