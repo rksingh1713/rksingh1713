@@ -48,7 +48,7 @@
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="HackerRank certificates/software_engineer certificate.png" width="250px"><br>
+  <img src="software_engineer certificate.png" width="250px"><br>
   <b>Software Engineer</b>
 </td>
 </tr>
