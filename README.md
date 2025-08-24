@@ -80,42 +80,42 @@
 </p>
 
 
-<!-- Certifications Grid (works in GitHub README) -->
-<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; align-items:stretch; background:#0f172a10; padding:16px; border-radius:16px;">
-  
-  <!-- Card 1 -->
-  <div style="flex:1 1 240px; max-width:320px; background:#f9f9f9; border-radius:14px; padding:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12); text-align:center;">
-    <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" alt="Software Engineer Certificate" style="width:100%; border-radius:10px;">
-    <h3 style="margin:10px 0 4px; font-size:18px;">Software Engineer</h3>
-    <p style="margin:0; color:#555; font-size:14px;">Issued by HackerRank</p>
-    <a href="https://www.hackerrank.com/profile/rksingh1713" style="display:inline-block; margin-top:10px; padding:8px 12px; border-radius:10px; text-decoration:none; background:#0ea5e9; color:white; font-size:14px;">Verify</a>
-  </div>
+## 🎓 Certifications
 
-  <!-- Card 2 -->
-  <div style="flex:1 1 240px; max-width:320px; background:#f9f9f9; border-radius:14px; padding:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12); text-align:center;">
-    <img src="<!-- yahan apni image URL de (png/jpg) -->" alt="Certificate 2" style="width:100%; border-radius:10px;">
-    <h3 style="margin:10px 0 4px; font-size:18px;">Problem Solving (Basic)</h3>
-    <p style="margin:0; color:#555; font-size:14px;">Issued by HackerRank</p>
-    <a href="<!-- yahan verify link de (shareable URL) -->" style="display:inline-block; margin-top:10px; padding:8px 12px; border-radius:10px; text-decoration:none; background:#0ea5e9; color:white; font-size:14px;">Verify</a>
-  </div>
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
+  <b>Software Engineer</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/ec4fdff0f405">Verify</a>
+</td>
 
-  <!-- Card 3 -->
-  <div style="flex:1 1 240px; max-width:320px; background:#f9f9f9; border-radius:14px; padding:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12); text-align:center;">
-    <img src="<!-- yahan apni image URL de (png/jpg) -->" alt="Certificate 3" style="width:100%; border-radius:10px;">
-    <h3 style="margin:10px 0 4px; font-size:18px;">Python (Basic)</h3>
-    <p style="margin:0; color:#555; font-size:14px;">Issued by HackerRank</p>
-    <a href="<!-- yahan verify link de (shareable URL) -->" style="display:inline-block; margin-top:10px; padding:8px 12px; border-radius:10px; text-decoration:none; background:#0ea5e9; color:white; font-size:14px;">Verify</a>
-  </div>
+<td align="center" width="50%">
+  <img src="<!-- apna image link -->" width="250px"><br>
+  <b>Problem Solving (Basic)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="<!-- verify link -->">Verify</a>
+</td>
+</tr>
 
-  <!-- Card 4 -->
-  <div style="flex:1 1 240px; max-width:320px; background:#f9f9f9; border-radius:14px; padding:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12); text-align:center;">
-    <img src="<!-- yahan apni image URL de (png/jpg) -->" alt="Certificate 4" style="width:100%; border-radius:10px;">
-    <h3 style="margin:10px 0 4px; font-size:18px;">SQL (Basic)</h3>
-    <p style="margin:0; color:#555; font-size:14px;">Issued by HackerRank</p>
-    <a href="<!-- yahan verify link de (shareable URL) -->" style="display:inline-block; margin-top:10px; padding:8px 12px; border-radius:10px; text-decoration:none; background:#0ea5e9; color:white; font-size:14px;">Verify</a>
-  </div>
+<tr>
+<td align="center" width="50%">
+  <img src="<!-- apna image link -->" width="250px"><br>
+  <b>Python (Basic)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="<!-- verify link -->">Verify</a>
+</td>
 
-</div>
+<td align="center" width="50%">
+  <img src="<!-- apna image link -->" width="250px"><br>
+  <b>SQL (Basic)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="<!-- verify link -->">Verify</a>
+</td>
+</tr>
+</table>
+
 
 
 ## ✍️ Random Dev Quote
