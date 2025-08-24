@@ -87,8 +87,7 @@
 <td align="center" width="50%">
   <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
   <b>Software Engineer</b><br>
-  <sub>Issued by HackerRank</sub><br>
-  <a href="https://www.hackerrank.com/certificates/ec4fdff0f405">Verify</a>
+  <a href="https://www.hackerrank.com/certificates/iframe/ec4fdff0f405">Issued by HackerRank</a>
 </td>
 
 <td align="center" width="50%">
