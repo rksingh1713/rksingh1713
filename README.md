@@ -84,24 +84,24 @@
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
   <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
   <b>Software Engineer</b>
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="100%">
   <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
   <b>Software Engineer</b>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
   <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
   <b>Software Engineer</b>
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="100%">
   <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" width="250px"><br>
   <b>Software Engineer</b>
 </td>
