@@ -92,9 +92,12 @@
     alt="Software Engineer Certificate"
   ><br>
   <b>Software Engineer</b><br>
-  <span style="color: #000; font-weight: 500; text-decoration: none;">
-    Issued by HackerRank
-  </span>
+ <b>
+  <a href="https://www.hackerrank.com/certificates/iframe/ec4fdff0f405">🔗</a>
+  Issued by HackerRank
+</b>
+
+
 </td>
 
 
