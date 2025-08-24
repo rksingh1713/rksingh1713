@@ -84,30 +84,12 @@
 
   <!-- Certificate 1 -->
   <div style="flex: 1 1 250px; max-width: 300px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
-    <a href="YOUR_CERTIFICATE_LINK_1" target="_blank">
-      <img src="YOUR_IMAGE_LINK_1" alt="Certificate 1" style="width: 100%; border-radius: 10px;" />
-    </a>
-    <h3 style="margin: 10px 0 5px; font-size: 18px;">Python for Data Science</h3>
-    <p style="color: #555; font-size: 14px;">Issued by Coursera</p>
+      <img src="https://github.com/rksingh1713/rksingh1713/blob/main/software_engineer%20certificate-1.png?raw=true" alt="Certificate 1" style="width: 70%; border-radius: 10px;" />
+    <h3 style="margin: 10px 0 5px; font-size: 18px;">Software Engineer</h3>
+    <p style="color: #555; font-size: 14px;">Issued by HackerRank</p>
   </div>
 
-  <!-- Certificate 2 -->
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
-    <a href="YOUR_CERTIFICATE_LINK_2" target="_blank">
-      <img src="YOUR_IMAGE_LINK_2" alt="Certificate 2" style="width: 100%; border-radius: 10px;" />
-    </a>
-    <h3 style="margin: 10px 0 5px; font-size: 18px;">Machine Learning</h3>
-    <p style="color: #555; font-size: 14px;">Issued by Stanford University</p>
-  </div>
-
-  <!-- Certificate 3 -->
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center; padding: 10px; border-radius: 12px; background: #f9f9f9; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
-    <a href="YOUR_CERTIFICATE_LINK_3" target="_blank">
-      <img src="YOUR_IMAGE_LINK_3" alt="Certificate 3" style="width: 100%; border-radius: 10px;" />
-    </a>
-    <h3 style="margin: 10px 0 5px; font-size: 18px;">Web Development</h3>
-    <p style="color: #555; font-size: 14px;">Issued by FreeCodeCamp</p>
-  </div>
+ 
 
   <!-- Repeat for all your 12–16 certificates -->
 
