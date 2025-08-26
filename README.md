@@ -13,7 +13,7 @@
  
 ## 👨‍💻 About Me  
 - 🎓 **B.Tech in Computer Science & Engineering (AIML)**   
-- 🌱 **Currently Learning:** `Machine Learning`, `Full Stack Development`, `NLP` 
+- 🌱 **Currently Learning:** `Machine Learning`, `Full Stack Development`, `NLP`
 - 💬 **Ask Me About:** `Python`, `AI`, `Data Science`, `Web Development`  
 - 🚀 **Goal:** Build innovative tech solutions that solve real-world problems  
 - 📫 **Reach Me:** **rksinghbth500@gmail.com**  
