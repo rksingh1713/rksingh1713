@@ -11,7 +11,7 @@
    
 <img align="right" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" alt="coding" width="400" />
 
-## 👨‍💻 About Me 
+## 👨‍💻 About Me  
 - 🎓 **B.Tech in Computer Science & Engineering (AIML)**  
 - 🌱 **Currently Learning:** `Machine Learning`, `Full Stack Development`, `NLP` 
 - 💬 **Ask Me About:** `Python`, `AI`, `Data Science`, `Web Development`  
