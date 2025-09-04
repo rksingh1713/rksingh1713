@@ -29,7 +29,7 @@
 </p>
 
 ## 🛠 Skills & Tools
-
+ 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,flask,mysql,mongodb,html,css,js,react,nodejs,git,linux,bootstrap,figma" />
 </p>
