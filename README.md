@@ -3,7 +3,7 @@
 <p align="center">     
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6F61&width=700&center=true&lines=🚀+Passionate+CS+Engineer+%7C+Tech+Explorer;💻+Loves+Python+%7C+ML+%7C+Full+Stack;🎯+Building+Impactful+Projects+for+the+Future" alt="Typing SVG" />   
 </p>        
-             
+              
  <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rksingh1713&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rksingh1713?label=Followers&logo=github&color=9C27B0&style=for-the-badge" alt="GitHub Followers" />
