@@ -77,7 +77,7 @@
        alt="Snake Animation" 
        style="max-width: 100%;"/>
 </p>
-
+ 
 <p align="center">
   <sub>✨ This snake animation updates automatically every 12 hours to reflect my latest GitHub activity ✨</sub>
 </p>
